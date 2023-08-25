@@ -35,7 +35,8 @@ const audioElements = [
     document.getElementById('audio5'),
     document.getElementById('audio6'),
     document.getElementById('audio7'),
-    document.getElementById('audio8')
+    document.getElementById('audio8'),
+    document.getElementById('audio9')
 ];
 
 soundButton.addEventListener('click', () => {
